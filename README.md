@@ -75,7 +75,7 @@ Table of Contents
 | S. No. | Machine Name | Status | Writeups |
 | --- | --- | --- | --- |
 | 1. | [ LAMPSecurity: CTF 4](https://www.hackingarticles.in/hack-the-lampsecurity-ctf4-ctf-challenge/) | ☐ | |
-| 2. | [ LAMPSecurity: CTF 5](https://www.hackingarticles.in/hack-the-lampsecurity-ctf-5-ctf-challenge/) | ☐ | |
+| 2. | [ LAMPSecurity: CTF 5](https://www.hackingarticles.in/hack-the-lampsecurity-ctf-5-ctf-challenge/) | ☑ | |
 | 3. | [ LAMPSecurity: CTF 7](https://www.hackingarticles.in/hack-the-lampsecurity-ctf-7-ctf-challenge/) | ☐ | |
 | 4. | [ Holynix: v1](https://www.hackingarticles.in/hack-the-holynix-v1-boot-2-root-challenge/) | ☐ | |
 | 5. | [ pWnOS -1.0](https://www.hackingarticles.in/hack-the-pwnos-1-0-boot-to-root/) | ☐ | |
